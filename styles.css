@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(64deg, #500082, #26005b);
+    color: rgb(255, 255, 255);
+}
+
+
+.caixa {
+
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 80px;
+    border-radius: 12%;
+
+}
+
+input {
+
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+
+button {
+
+
+    border: none;
+    border-radius: 2%;
+    padding: 15px;
+    width: 100%;
+    background-color: rgb(23, 19, 139);
+    color: white;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: rgb(181, 7, 255);
+}
+
+#insta {
+
+    max-width: 50px;
+    max-height: 50px;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 93.7%;
+    right: 50.9%;
+}
+
+#zap {
+    max-width: 109px;
+    max-height: 109px;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 92.52%;
+    right: 45%;
+
+
+}
+
+
+#disco {
+    max-width: 43px;
+    max-height: 43px;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 94%;
+    right: 42.6%;
+
+
+
+}
+
+#git {
+    max-width: 54px;
+    max-height: 54px;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 94%;
+    right: 55%;
+
+
+}
+
+.box{
+
+    width: 2000px;
+    height: 88px;
+    background-image: linear-gradient(45deg,rgb(4, 0, 230),rgb(183, 0, 255));
+    position: absolute;
+    top: 92%;
+    right:0.1%;
+}
+
