@@ -69,11 +69,7 @@ button:hover {
 #disco {
     max-width: 43px;
     max-height: 43px;
-    width: auto;
-    height: auto;
-    position: absolute;
-    top: 94%;
-    right: 43.7%;
+
 
 
 
@@ -82,11 +78,7 @@ button:hover {
 #git {
     max-width: 54px;
     max-height: 54px;
-    width: auto;
-    height: auto;
-    position: absolute;
-    top: 94%;
-    right: 54.99%;
+   
 
 
 }
@@ -101,3 +93,14 @@ button:hover {
     right:0.1%;
 }
 
+footer{
+  position: absolute;
+  bottom: 0;
+text-align: center;
+ 
+}
+
+footer > a > img {
+margin: auto;
+
+}
